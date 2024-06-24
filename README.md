@@ -14,7 +14,7 @@ Hello! 👋🏻 I am a software developer and a third-year Computer Engineering 
 🤝 My goal is to continue progressing in the world of programming and computer science by learning and incorporating new technologies, entering the professional world, and contributing the value of my human capital. I enjoy working in teams, solving problems, and tackling new projects.
 
 🚀 My skills:
-C++ | C | Python | JavaScript | OOP | MySQL | Git | Linux | HTML | CSS | Data Structures | Algorithms | Statistics | English | Italian
+C++ | C | Python | JavaScript | OOP | SQL | Docker | Git | Linux | HTML | CSS | Data Structures | Algorithms | Statistics | English | Italian
 
 📞 Contact me:
 
