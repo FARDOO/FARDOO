@@ -13,24 +13,20 @@ Hello! 👋🏻 I am a software developer and a third-year Computer Engineering 
 
 🤝 My goal is to continue progressing in the world of programming and computer science by learning and incorporating new technologies, entering the professional world, and contributing the value of my human capital. I enjoy working in teams, solving problems, and tackling new projects.
 
-🚀 My skills:
-C++ | C | Python | JavaScript | OOP | SQL | Docker | Git | Linux | HTML | CSS | Data Structures | Algorithms | Statistics | English | Italian
+## ⚡ Technologies 
 
+[![Technologies](https://skillicons.dev/icons?i=cpp,py,js,html,css,bootstrap,c,docker,git,mysql,postgres&perline=10)](https://skillicons.dev)
+
+## 🛠 Tools
+
+[![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,clion,pycharm,bash,powershell,linux,ubuntu,windows,github,notion,postman,stackoverflow&perline=10)](https://skillicons.dev)
+
+## 📊 GitHub analytics
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FARDOO&layout=compact&langs_count=8&theme=algolia"/>
+
+---
 📞 Contact me:
 
 📧 santifardini@gmail.com
- 
 :mailbox: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santiagofardini/)
-<div aling="center">
-    <h2 align="center">Languages and Tools</h2>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-
-  </div>
