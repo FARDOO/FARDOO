@@ -15,11 +15,11 @@ Hello! 👋🏻 I am a software developer and a third-year Computer Engineering 
 
 ## ⚡ Technologies 
 
-[![Technologies](https://skillicons.dev/icons?i=cpp,py,js,html,css,bootstrap,c,docker,git,mysql,postgres&perline=10)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=cpp,py,js,html,css,bootstrap,c,docker,git,mysql,postgres&perline=13)](https://skillicons.dev)
 
 ## 🛠 Tools
 
-[![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,clion,pycharm,bash,powershell,linux,ubuntu,windows,github,notion,postman,stackoverflow&perline=10)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,clion,pycharm,bash,powershell,linux,ubuntu,windows,github,notion,postman,stackoverflow&perline=13)](https://skillicons.dev)
 
 ## 📊 GitHub analytics
 
