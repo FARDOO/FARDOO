@@ -23,7 +23,7 @@ Hello! 👋🏻 I am a software developer and a third-year Computer Engineering 
 
 ## 📊 GitHub analytics
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FARDOO&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FARDOO&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
 
 ---
 📞 Contact me:
