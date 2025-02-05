@@ -2,6 +2,7 @@
     Hello, I'm Santiago Fardini
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  
 ###  About Me :
 Hello! 👋🏻 I am a software developer and a third-year Computer Engineering student at UBA, with extensive knowledge and a large number of university and personal projects. I have an advanced level of English (B2) and I am studying Italian.
 
