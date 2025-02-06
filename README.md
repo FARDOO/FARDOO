@@ -4,7 +4,7 @@
   </h1>
   
 ###  About Me :
-Hello! 👋🏻 I am a software developer and a third-year Computer Engineering student at UBA, with extensive knowledge and a large number of university and personal projects. I have an advanced level of English (B2) and I am studying Italian.
+Hello! 👋🏻 I am a software developer and a third-year Computer Engineering student at UBA, with extensive knowledge and a large number of university and personal projects. I have an advanced level of English (B2).
 
 🤝 My goal is to continue progressing in the world of programming and computer science by learning and incorporating new technologies, entering the professional world, and contributing the value of my human capital. I enjoy working in teams, solving problems, and tackling new projects.
 
